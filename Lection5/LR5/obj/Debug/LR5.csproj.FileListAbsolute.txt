@@ -1,0 +1,7 @@
+D:\Универ Валера\OOP\Lection5\LR5\bin\Debug\LR5.exe.config
+D:\Универ Валера\OOP\Lection5\LR5\bin\Debug\LR5.exe
+D:\Универ Валера\OOP\Lection5\LR5\bin\Debug\LR5.pdb
+D:\Универ Валера\OOP\Lection5\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+D:\Универ Валера\OOP\Lection5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+D:\Универ Валера\OOP\Lection5\LR5\obj\Debug\LR5.exe
+D:\Универ Валера\OOP\Lection5\LR5\obj\Debug\LR5.pdb
