@@ -1,7 +1,0 @@
-D:\Универ Валера\OOP\Lection6\L6\bin\Debug\L6.exe.config
-D:\Универ Валера\OOP\Lection6\L6\bin\Debug\L6.exe
-D:\Универ Валера\OOP\Lection6\L6\bin\Debug\L6.pdb
-D:\Универ Валера\OOP\Lection6\L6\obj\Debug\L6.csproj.AssemblyReference.cache
-D:\Универ Валера\OOP\Lection6\L6\obj\Debug\L6.csproj.CoreCompileInputs.cache
-D:\Универ Валера\OOP\Lection6\L6\obj\Debug\L6.exe
-D:\Универ Валера\OOP\Lection6\L6\obj\Debug\L6.pdb
