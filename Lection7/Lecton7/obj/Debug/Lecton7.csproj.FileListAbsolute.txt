@@ -1,0 +1,7 @@
+D:\Универ Валера\OOP\Lection7\Lecton7\bin\Debug\Lecton7.exe.config
+D:\Универ Валера\OOP\Lection7\Lecton7\bin\Debug\Lecton7.exe
+D:\Универ Валера\OOP\Lection7\Lecton7\bin\Debug\Lecton7.pdb
+D:\Универ Валера\OOP\Lection7\Lecton7\obj\Debug\Lecton7.csproj.AssemblyReference.cache
+D:\Универ Валера\OOP\Lection7\Lecton7\obj\Debug\Lecton7.csproj.CoreCompileInputs.cache
+D:\Универ Валера\OOP\Lection7\Lecton7\obj\Debug\Lecton7.exe
+D:\Универ Валера\OOP\Lection7\Lecton7\obj\Debug\Lecton7.pdb
