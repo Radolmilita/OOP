@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class SelfWork: ITest, IComparer
+    class SelfWork: ITest, IComparable
     {
-        string name;
-        int result;
-        double coeficient;
+        public string name;
+        public int result;
+        public double coeficient;
         public SelfWork(string name, int result, double coeficient)
         {
             this.name = name;
@@ -34,11 +34,10 @@ namespace ConsoleApp1
             return result*coeficient + 21;
         }
 
-        public int Compare(object x, object y)
+        public int CompareTo(object obj)
         {
-            SelfWork homeworkA = (SelfWork)x;
-            SelfWork homeworkB = (SelfWork)y;
-            return homeworkA.name.CompareTo(homeworkB.name);
+            SelfWork mem = (SelfWork)obj;
+            return (int)(coeficient - mem.coeficient);
         }
 
         public override string ToString()

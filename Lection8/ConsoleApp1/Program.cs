@@ -14,7 +14,7 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            Exam t1 = new Exam("Valerij", 175,0.5);
+            Exam t1 = new Exam("Valerij", 175, 0.5);
             t1.Coeficient = 0.45;
             Console.WriteLine($"{t1} Competition mark = {t1.CommonResult()}/100");
             Program pr = new Program();
@@ -22,11 +22,11 @@ namespace ConsoleApp1
             sf.Coeficient = 0.8;
             double n = pr.CalculateResult(sf);
             Console.WriteLine($"result for h/w {n}");
-            SelfWork [] homework = {
-                    new SelfWork("Valerij", 100, 10), 
-                    new SelfWork("Dima",99, 8), 
+            SelfWork[] homework = {
+                    new SelfWork("Valerij", 100, 10),
+                    new SelfWork("Dima",99, 8),
                     new SelfWork("Alex",70, 23) };
-            Array.Sort(homework, new SelfWork("",4,4));
+            Array.Sort(homework, new SortCoeficient());
             foreach (SelfWork obj in homework)
                 Console.WriteLine(obj);
             Console.WriteLine(Environment.NewLine);
@@ -38,7 +38,17 @@ namespace ConsoleApp1
             foreach (Exam m in mainExam) {
                 Console.WriteLine(m);
             }
+            Console.WriteLine(Environment.NewLine);
 
+            Trees[] tree = {
+                new Trees("Клён",20,8),
+                new Trees("Тoполь", 17, 8.7),
+                new Trees("Сакура", 18, 14.5),
+                new Trees("Дуб", 13,5)
+            };
+            Park somePark = new Park(tree);
+            foreach (Trees smth in somePark)
+                Console.WriteLine(smth.ToString());
 
             Console.ReadKey();
         }
