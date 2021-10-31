@@ -1,0 +1,7 @@
+D:\Универ Валера\OOP\Lection9\Lection9\obj\Debug\Lection9.csproj.AssemblyReference.cache
+D:\Универ Валера\OOP\Lection9\Lection9\obj\Debug\Lection9.csproj.CoreCompileInputs.cache
+D:\Универ Валера\OOP\Lection9\Lection9\bin\Debug\Lection9.exe.config
+D:\Универ Валера\OOP\Lection9\Lection9\bin\Debug\Lection9.exe
+D:\Универ Валера\OOP\Lection9\Lection9\bin\Debug\Lection9.pdb
+D:\Универ Валера\OOP\Lection9\Lection9\obj\Debug\Lection9.exe
+D:\Универ Валера\OOP\Lection9\Lection9\obj\Debug\Lection9.pdb
