@@ -1,0 +1,7 @@
+D:\Универ Валера\OOP\Lection10\Lect\bin\Debug\Lect.exe.config
+D:\Универ Валера\OOP\Lection10\Lect\bin\Debug\Lect.exe
+D:\Универ Валера\OOP\Lection10\Lect\bin\Debug\Lect.pdb
+D:\Универ Валера\OOP\Lection10\Lect\obj\Debug\Lect.csproj.AssemblyReference.cache
+D:\Универ Валера\OOP\Lection10\Lect\obj\Debug\Lect.csproj.CoreCompileInputs.cache
+D:\Универ Валера\OOP\Lection10\Lect\obj\Debug\Lect.exe
+D:\Универ Валера\OOP\Lection10\Lect\obj\Debug\Lect.pdb
