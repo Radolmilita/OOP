@@ -16,10 +16,10 @@ namespace ConsoleApp1
         public int Amount { get; set; }
         public Cars() { }
         public void Show() {
-            Console.WriteLine($"Марка машины {Vendor} \n Модель авто: {Model} \n Мощность двигателя (в ЛС) {HorsePower} \n Концерн к которому относится марка: {Concern}");
+            Console.WriteLine($"Марка машины {Vendor} \n Модель авто: {Model} \n Мощность двигателя (в ЛС) {HorsePower}");
         }
         public void ShowWithAmount() {
-            Console.WriteLine($"Марка машины {Vendor} \n Модель авто: {Model} \n Произведено штук {Amount} \n Концерн к которому относится марка: {Concern}");
+            Console.WriteLine($"Марка машины {Vendor} \n Модель авто: {Model} \n Произведено штук {Amount}");
         }
         public void FindVolkswagenAmount(Cars[]carsArray){
             int count = 0;

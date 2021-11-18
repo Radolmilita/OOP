@@ -81,11 +81,10 @@ namespace ConsoleApp1
             Cars porscheCayene = new Cars { Vendor = "Porsche", Model = "Cayene", Amount = 1500000};
             Cars porsche911 = new Cars { Vendor = "Porsche", Model = "911", Amount = 400000};
             Cars porscheTaycan = new Cars { Vendor = "Porsche", Model = "Taycan", Amount = 60000 };
-            List<Cars> porscheList = new List<Cars>();
-            porscheList.Add(porscheMacan);
-            porscheList.Add(porscheCayene);
-            porscheList.Add(porsche911);
-            porscheList.Add(porscheTaycan);
+            porscheMacan.ShowWithAmount();
+            porscheCayene.ShowWithAmount();
+            porsche911.ShowWithAmount();
+            porscheTaycan.ShowWithAmount();
 
             Func<Cars, Cars, int> commonSuvAmount = (x, y) => porscheCayene.Amount + porscheMacan.Amount;
             Func<int, Cars, Cars, int> commonPorscheAmount = (x, y, z) => commonSuvAmount(porscheCayene, porscheMacan) + porsche911.Amount + porscheTaycan.Amount;
